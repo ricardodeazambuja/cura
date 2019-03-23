@@ -31,3 +31,5 @@ wisconsin-card-sorting-test
 
 
 ### [CURA on Devpost](https://devpost.com/software/cura-companion-autonomous-robot-assistant)
+### [Our presentation during the Hackathon Robots at your service - European Robotics Week 2016](https://docs.google.com/presentation/d/1W5Y2DCzbf1BLyqwFooOmD05cpiRSuaE3STnHHlQkBQM/edit#slide=id.p)
+### [Robots at your service](https://robots.devpost.com/)
